@@ -1,0 +1,22 @@
+{
+  "name": "gulp-build-v1",
+  "version": "1.0.0",
+  "description": "A practice of using Gulp for a build manager.",
+  "main": "./js/global.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justincrich/treehouse-gulp-build-process.git"
+  },
+  "author": "justinrich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justincrich/treehouse-gulp-build-process/issues"
+  },
+  "homepage": "https://github.com/justincrich/treehouse-gulp-build-process#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
